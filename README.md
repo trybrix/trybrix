@@ -4,14 +4,18 @@
 
 There is always a chance.<br>
 
-`if (opportunity.equals("Success")) {
-      System.out.println("Success! You did it!");
-    }else{
-      System.out.println("Try Again!");
-      if (num > 1){
+```java
+if (opportunity.equals("Success")) {
+    System.out.println("Success! You did it!");
+} else {
+    System.out.println("Try Again!");
+    if (num > 1) {
         chance(num - 1);
-      }else{
-        System.out.println("Exp +1");`
+    } else {
+        System.out.println("Exp +1");
+    }
+}
+```
         
 ---
 

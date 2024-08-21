@@ -33,3 +33,10 @@ if (opportunity.equals("Success")) {
 <img align="right" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="right" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <br />
+
+---
+### Projects
+[x] [Back to the World](https://trybrix.github.io/B2W/)
+[ ] [brixgames]
+[ ] [Portfolio]
+

@@ -38,7 +38,7 @@ if (opportunity.equals("Success")) {
 
 ---
 ### Projects
-- [ ] [Back to the World]() 
+- [ ] [Back to the World](https://trybrix.github.io/B2W/) 
 - [ ] [brixgames]
 - [ ] [Portfolio]
 
